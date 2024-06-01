@@ -1,0 +1,11 @@
+/Users/artyomdanielyan/Desktop/myProjcets/BackendTest/BackendTest.Business/bin/Debug/net8.0/BackendTest.Business.deps.json
+/Users/artyomdanielyan/Desktop/myProjcets/BackendTest/BackendTest.Business/bin/Debug/net8.0/BackendTest.Business.dll
+/Users/artyomdanielyan/Desktop/myProjcets/BackendTest/BackendTest.Business/bin/Debug/net8.0/BackendTest.Business.pdb
+/Users/artyomdanielyan/Desktop/myProjcets/BackendTest/BackendTest.Business/obj/Debug/net8.0/BackendTest.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artyomdanielyan/Desktop/myProjcets/BackendTest/BackendTest.Business/obj/Debug/net8.0/BackendTest.Business.AssemblyInfoInputs.cache
+/Users/artyomdanielyan/Desktop/myProjcets/BackendTest/BackendTest.Business/obj/Debug/net8.0/BackendTest.Business.AssemblyInfo.cs
+/Users/artyomdanielyan/Desktop/myProjcets/BackendTest/BackendTest.Business/obj/Debug/net8.0/BackendTest.Business.csproj.CoreCompileInputs.cache
+/Users/artyomdanielyan/Desktop/myProjcets/BackendTest/BackendTest.Business/obj/Debug/net8.0/BackendTest.Business.dll
+/Users/artyomdanielyan/Desktop/myProjcets/BackendTest/BackendTest.Business/obj/Debug/net8.0/refint/BackendTest.Business.dll
+/Users/artyomdanielyan/Desktop/myProjcets/BackendTest/BackendTest.Business/obj/Debug/net8.0/BackendTest.Business.pdb
+/Users/artyomdanielyan/Desktop/myProjcets/BackendTest/BackendTest.Business/obj/Debug/net8.0/ref/BackendTest.Business.dll

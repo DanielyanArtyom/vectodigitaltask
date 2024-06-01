@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Krf1+wEO5Sp9wVgUKl/rpNIhtkjM2lMUn8Jo3ojWNP4=",
+  "Source": "BackendTest.Webapi",
+  "BasePath": "_content/BackendTest.Webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

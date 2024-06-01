@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{8E126131-B932-417E-9EB8-8D1AD0F024E1}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BackendTest.Webapi/Program.cs">
+    <Files>
+      <File FileName="BackendTest.Webapi/Controllers/WeatherForecastController.cs" Line="20" Column="1" />
+      <File FileName="BackendTest.Webapi/Program.cs" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BackendTest" expanded="True">
+            <Node name="BackendTest.Webapi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BackendTest.Webapi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
